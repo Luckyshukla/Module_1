@@ -1,7 +1,7 @@
 # module_1
-Responsive Navbar using CSS and JavaScript
-Createed animation in Hamburg icon using JavaScript and CSS
-Hero Page
-Redirect to a particular section of a page using HTML
-Tigger to the new website
+Created a Responsive Navbar and Responsive webpage using CSS and JavaScript
+in which animated Hamburg icon using JavaScript and CSS
+and also create a Hero Page in which navigation section navigate 
+Redirect to a particular section of a page using HTML and also
+Tigger to the new website or 
 trigger to the next page
